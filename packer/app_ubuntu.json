@@ -13,6 +13,8 @@
     "client_secret": "{{user `azure_client_secret`}}",
     "tenant_id": "{{user `azure_tenant_id`}}",
     "subscription_id": "{{user `azure_subscription_id`}}",
+
+    
     "managed_image_resource_group_name": "azDOmeetup",
     "managed_image_name": "PackerNginxJREImage",
 
